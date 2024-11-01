@@ -1,6 +1,8 @@
 # Selenium-Automation-Project-Structure
 A Selenium-based automation project template in Java, structured to support scalable and maintainable test scripts. This setup includes the Page Object Model, configurable properties, and basic logging for efficient web testing.
 
+![image](https://github.com/user-attachments/assets/c772b82c-dd64-4a05-a573-047595c1a6cc)
+
 
 # Selenium Automation Project
 
